@@ -1,0 +1,22 @@
+body {
+    /* uigradients.com */
+background: #DBF227;  /* fallback for old browsers */
+
+text-align: center
+}
+h1{
+font-size: 3rem;
+color: #08403E;
+}
+h4{
+    font-size: 2rem;
+}
+button{
+    padding: 50px;
+    background-color:#706513;
+    border: none;
+    border-radius: 10px;
+}
+.fun{
+    background: #A3AB78;
+}
